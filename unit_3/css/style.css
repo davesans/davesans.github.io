@@ -1,0 +1,36 @@
+body {
+	width: 680px;
+	position: relative;
+	top: 50px;
+	left: 380px;
+    text-align: center;
+    background-color: purple;
+    background-image: url("../images/daisybags_hero.jpg");
+    background-size: cover;
+    color: white;
+    font-family: Helvetica;
+    line-height: 26px;
+
+}
+
+
+h1  {
+	font-family: "Courier New" ;
+	font-size: 24px;
+	font-weight: 300;
+	line-height: 20px;
+	text-transform: uppercase;
+
+}
+
+p  {
+	font-family: Geneva ;
+	font-size: 20px;
+	text-align: left;
+}
+
+ul {
+	font-family: Geneva ; 
+	text-align: left;
+	line-height: 18px;
+}
