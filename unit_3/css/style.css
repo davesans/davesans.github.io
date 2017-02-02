@@ -1,10 +1,4 @@
 body {
-	width: 680px;
-	position: relative;
-	top: 50px;
-	left: 380px;
-    text-align: center;
-    background-color: purple;
     background-image: url("../images/daisybags_hero.jpg");
     background-size: cover;
     color: white;
@@ -13,7 +7,18 @@ body {
 
 }
 
+.logo {
+	width: 440px;
+}
 
+.padded-multiline {
+	width: 49em;
+	margin: auto;
+	background: rgba(43,26,61,.8);
+	text-align: center;
+	padding: 2em;
+
+}
 h1  {
 	font-family: "Courier New" ;
 	font-size: 24px;
@@ -26,7 +31,10 @@ h1  {
 p  {
 	font-family: Geneva ;
 	font-size: 20px;
+	font-weight: 100;
 	text-align: left;
+	line-height: 22px;
+
 }
 
 ul {
