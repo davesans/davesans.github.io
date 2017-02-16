@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC:400,700|Barrio|Bowlby+One+SC|Kumar+One|Nixie+One');
+
+
+body {
+    background-image: url("../images/daisybags_hero.jpg");
+    background-size: cover;
+    color: white;
+    font-family: Helvetica;
+    line-height: 26px;
+
+}
+
+header {
+	width: 600px;
+	margin: auto;
+	background-color: rgba(129,120,142,.95);
+	border: 5px white solid;
+	padding: 15px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+li a: hover {
+    background-color: #111;
+}
+
+.logo {
+	width: 500px;
+	margin: 1em;
+	padding: 1em;
+}
+
+#navigation {
+	padding: 15px;
+	margin: 15px;
+    font-family: 'Amatic SC', cursive;
+	font-size: 18px;
+	font-weight: 300;
+	color: white;
+	text-transform: uppercase;
+	text-align: center;
+	display:inline;
+}
+
+
+.first {
+	width: 800px;
+	margin: auto;
+	border: 5px white solid;
+	background: rgba(129,120,142,.95);
+	text-align: center;
+	border: 10px;
+	border-color: white;
+	padding: 3em;
+
+}
+h1  {
+	font-family: 'Amatic SC', cursive;
+	margin: .5em;
+	font-size: 30px;
+	font-weight: 300;
+	background-color: rgb(85,57,114);
+	padding: 10px;
+	line-height: 18px;
+	text-transform: uppercase;
+}
+
+p  {
+	font-family: 'Nixie One', cursive;
+	width: 650px;
+	font-size: 20px;
+	font-weight: 100;
+	text-align: left;
+	line-height: 1.5em;
+	margin: 4em;
+}
+
+ul {
+	font-family: 'Nixie One';
+	width: 650px;
+	text-align: left;
+	line-height: 18px;
+	margin: 1.5em;
+}
